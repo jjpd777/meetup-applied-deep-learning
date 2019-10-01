@@ -1,4 +1,5 @@
 # Applied Deep Learning MeetUp
+-- 
 
 ![](https://commons.wikimedia.org/wiki/File:Meetup_Logo.png#/media/File:Meetup_Logo.png)
 
