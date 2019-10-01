@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.zip
 Food-5K/
+dataset/
 
 # C extensions
 *.so
