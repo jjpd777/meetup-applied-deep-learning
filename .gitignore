@@ -5,6 +5,7 @@ __pycache__/
 *.zip
 Food-5K/
 dataset/
+oct-01-2019/transfer-learning-keras/output/
 
 # C extensions
 *.so
