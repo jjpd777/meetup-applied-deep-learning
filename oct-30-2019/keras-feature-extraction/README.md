@@ -6,3 +6,4 @@
 
 - En caso de haber terminado ambos ejercicios, avísame y te puedo compartir material mas avanzado. 
 
+![](https://xlog.x-hub.io/content/images/2019/09/nvidia-1201074_960_720.jpg)
