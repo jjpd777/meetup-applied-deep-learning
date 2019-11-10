@@ -4,4 +4,3 @@ This is a repository to keep track of the exercises used for the Applied Deep Le
 
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/6b/Meetup_Logo.png)
